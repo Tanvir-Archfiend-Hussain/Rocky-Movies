@@ -1,7 +1,7 @@
 # Rocky Movies
 
 This project was designed for me to learn how to link HTML files and work with videos and CSS.
-<img src="" alt="" />
+<img src="http://ultimateactionmovies.com/wp-content/uploads/2018/12/Rocky-Christmas.jpg" alt="" />
 JAVASCRIPT
 HTML
 CSS
